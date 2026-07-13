@@ -4,6 +4,9 @@ gsk编译教程
 https://wwcr.lanzoul.com/i0lhb1gofeja
 密码:g4fz
 
+备用: https://wwbnl.lanzouw.com/iaPll3w66a9c
+密码:aiq8
+
 环境准备：node环境,golang环境
 
 cd 到 frontend文件夹
