@@ -1,0 +1,29 @@
+gsk编译教程
+
+或下载已经编译好的dist文件夹,放置于gensokyo项目根目录-webui-dist
+https://wwcr.lanzoul.com/i0lhb1gofeja
+密码:g4fz
+
+环境准备：node环境,golang环境
+
+cd 到 frontend文件夹
+
+确保你的开发环境中已经安装了Node.js。
+Quasar基于Node.js，因此这是必须的。
+
+安装Vue CLI。Quasar是一个Vue.js框架，因此需要Vue CLI。
+运行命令 
+npm install -g @vue/cli 
+
+安装Quasar CLI：
+接下来安装Quasar CLI。
+运行命令
+ npm install -g @quasar/cli 
+
+项目依赖安装：
+运行 npm install
+运行 quasar build 命令来构建前端。
+
+在gsk根目录,运行 go build -o gensokyo.exe
+或 go run .
+
